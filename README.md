@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tend2infinity&label=Profile%20views&color=0e75b6&style=flat" alt="tend2infinity" /> </p>
 
+- 💻 I'm currently a sophomore at ABV-IIITM Gwalior [https://www.iiitm.ac.in/index.php/en/](https://www.iiitm.ac.in/index.php/en/)
+
 - 🔭 I’m currently working on [Rate-It Project](https://github.com/tend2infinity/Rate-It-Project)
 
 - 💬 Ask me about **React , Node , Express and C++**
