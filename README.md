@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tend2infinity&label=Profile%20views&color=0e75b6&style=flat" alt="tend2infinity" /> </p>
 
-- 💻 I'm currently a sophomore at Indian Institute of Information Technology and Management, Gwalior [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
+- 💻 I'm currently a sophomore at Indian Institute of Information Technology and Management, Gwalior pursuing Integrated (B.Tech. + M.Tech.) in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
 
 - 🔭 I’m currently working on [Rate-It Project](https://github.com/tend2infinity/Rate-It-Project)
 
@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **somu12.ss@gmail.com**
 
+- 📄 My recent Internship experience is at Inforida Web Technologies as a Backend Intern [Inforida](https://www.inforida.com/)
+
 - ⚡ Fun fact **A cup of tea can motivate me to do almost anything!!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
