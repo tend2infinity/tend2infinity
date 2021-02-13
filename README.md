@@ -1,4 +1,4 @@
-<h1 align="center">Hello There!👋, I'm Somya!</h1>
+<h1 align="center">Hello There!👋, I'm Soumya!</h1>
 <h3 align="center">A constantly learning student!</h3>
 
 - 💻 I'm currently a sophomore at Indian Institute of Information Technology and Management, Gwalior pursuing Integrated (B.Tech. + M.Tech.) in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
