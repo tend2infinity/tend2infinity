@@ -3,7 +3,7 @@
 
 - 💻 I'm currently a sophomore at Indian Institute of Information Technology and Management, Gwalior pursuing Integrated (B.Tech. + M.Tech.) in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
 
-- 🔭 I’m currently working on [Rate-It Project](https://github.com/tend2infinity/Rate-It-Project)
+- 🔭 I’m currently working on Open source projects
 
 - 💬 Ask me about **React , Node , Express and C++**
 
