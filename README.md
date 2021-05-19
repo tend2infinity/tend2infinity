@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **somu12.ss@gmail.com**
 
-- 📄 My recent Internship experience is at Inforida Web Technologies as a Backend Intern [Inforida](https://www.inforida.com/)
+- 📄 My recent Internship experience is at Inforida Web Technologies as a Backend Intern at [Inforida](https://www.inforida.com/)
 
 - ⚡ Fun fact **A cup of tea can motivate me to do almost anything!!**
 
