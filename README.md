@@ -1,7 +1,7 @@
 <h1 align="center">Hello There!👋, I'm Soumya!</h1>
 <h3 align="center">A constantly learning student!</h3>
 
-- 💻 I'm currently a sophomore at Indian Institute of Information Technology and Management, Gwalior pursuing Integrated (B.Tech. + M.Tech.) in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
+- 💻 I'm a Junior at Indian Institute of Information Technology and Management, Gwalior pursuing Integrated (B.Tech. + M.Tech.) in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
 
 - 🔭 I’m currently working on Open source projects
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **somu12.ss@gmail.com**
 
-- 📄 My recent Internship experience is at Inforida Web Technologies as a Backend Intern at [Inforida](https://www.inforida.com/)
+- 📄  I'm currently a full stack intern at [MuxEmail](https://muxemail.com/)
 
 - ⚡ Fun fact **A cup of tea can motivate me to do almost anything!!**
 
