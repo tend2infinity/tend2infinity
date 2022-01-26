@@ -3,9 +3,9 @@
 
 - 💻 I'm a Junior at Indian Institute of Information Technology and Management, Gwalior pursuing Integrated (B.Tech. + M.Tech.) in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
 
-- 🔭 I’m currently working on Open source projects
+- 🔭 I’m currently working on [Thanos](https://thanos.io/)
 
-- 💬 Ask me about **React , Node , Express C++ and Go**
+- 💬 Ask me about **React, Node, C++ and GoLang**
 
 - 📫 How to reach me **somu12.ss@gmail.com**
 
