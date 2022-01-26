@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Open source projects
 
-- 💬 Ask me about **React , Node , Express and C++**
+- 💬 Ask me about **React , Node , Express C++ and Go**
 
 - 📫 How to reach me **somu12.ss@gmail.com**
 
-- 📄  I'm currently a full stack intern at [MuxEmail](https://muxemail.com/)
+- 📄  Former full stack intern at [MuxEmail](https://muxemail.com/)
 
 - ⚡ Fun fact **A cup of tea can motivate me to do almost anything!!**
 
