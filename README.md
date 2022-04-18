@@ -1,9 +1,13 @@
 <h1 align="center">Hello There!👋, I'm Soumya!</h1>
 <h3 align="center">A constantly learning student!</h3>
 
-- 💻 I'm a Junior at Indian Institute of Information Technology and Management, Gwalior pursuing Integrated (B.Tech. + M.Tech.) in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
+- 💻 I'm a Junior at Indian Institute of Information Technology, Gwalior **(IIIT Gwalior)** pursuing Integrated Masters in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
 
-- 💬 Ask me about **C++, GoLang, Docker and Kubernetes**
+- :computer: Currently an **LFX Mentee** at <a href="https://thanos.io/">Thanos</a> (a Cloud Native Computing Foundation project)
+
+- :purple_heart: Passionate about contributing to **Open Source** projects, curently contributing to <a href="https://kyverno.io/">Kyverno</a>
+
+- 💬 Ask me about **Reactjs, C++, GoLang, Docker and Kubernetes**
 
 - 📫 How to reach me **somu12.ss@gmail.com**
 
