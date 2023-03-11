@@ -3,9 +3,9 @@
 
 - 💻 I'm a Junior at Indian Institute of Information Technology, Gwalior **(IIIT Gwalior)** pursuing Integrated Masters in Information Technology [ABV-IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)
 
-- :computer: Currently an **LFX Mentee** at <a href="https://thanos.io/">Thanos</a> (a Cloud Native Computing Foundation project)
+- :computer: **LFX Mentee'22** at <a href="https://thanos.io/">Thanos</a> (a Cloud Native Computing Foundation project)
 
-- :purple_heart: Passionate about contributing to **Open Source** projects, curently contributing to <a href="https://kyverno.io/">Kyverno</a>
+- :purple_heart: Passionate about contributing to **Open Source** projects, mutiple **CNCF** projects contributor
 
 - 💬 Ask me about **Reactjs, C++, GoLang, Docker and Kubernetes**
 
